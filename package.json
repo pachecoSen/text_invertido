@@ -1,0 +1,24 @@
+{
+  "name": "text_invertido",
+  "version": "1.0.0",
+  "description": "Invertir texto ingresado",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pachecoSen/text_invertido.git"
+  },
+  "keywords": [
+    "text",
+    "invierte"
+  ],
+  "author": "Ignacio Pacheco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pachecoSen/text_invertido/issues"
+  },
+  "homepage": "https://github.com/pachecoSen/text_invertido#readme"
+}
